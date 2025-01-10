@@ -17,7 +17,7 @@ layers:
   - A
   - S
   - D
-  - F
+  - {t: F, h: LGUI}
   - G
   - $$mdi:arrow-left-bold$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
