@@ -1,3 +1,4 @@
+layout: {zmk_keyboard: eyelash_corne}
 layers:
   QWERTY:
   - $$mdi:keyboard-tab$$
@@ -210,7 +211,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - '&bl BL_TOG'
-  - RGB HUD
+  - RGB HUI
   - RGB SAI
   - RGB BRI
   - {t: '$$mdi:minus-circle-outline$$', type: none}
